@@ -38,22 +38,3 @@ const woontopia = {
     </div>  
     <br><br><br><br><br>
 </p>
-
-<br><br>
-
-<h2 align="center">🗂️ Highlight Projects 🗂️</h2>
-<p align=center>
-    <div align=center>
-        <div width="100%" align="center">
-            <a href="https://github.com/Max135/TFF">
-              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=max135&repo=TFF&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-            </a>
-            <a href="https://github.com/Woontopia/tournerik">
-              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=woontopia&repo=tournerik&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
-            </a>
-            <!--<a href="https://github.com/Salvas21/JavaCC-AST-Analysis">
-              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salvas21&repo=javacc-ast-analysis&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
-            </a> -->
-        </div>
-    </div>
-</p>
